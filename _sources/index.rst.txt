@@ -10,11 +10,11 @@ Welcome to railabsite's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   sections/education
+   sections/members
+   sections/news
+   sections/publication
+   sections/research
+   sections/robots
+   sections/software
+   sections/openpositions
