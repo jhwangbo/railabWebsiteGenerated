@@ -34,7 +34,7 @@ Doctoral Students
 
             **Yongjae Kim**
 
-            - Bachelor's and master's degree at the Tokyo Tech
+            - BAS, MAS at the Tokyo Tech
 
     .. grid-item::
 
@@ -48,7 +48,7 @@ Doctoral Students
 
             **Donghoon Youm**
 
-            - Bachelor's and master's degree at KAIST
+            - BAS, MAS at KAIST
 
 .. grid:: 1 2 3 4
 
@@ -64,7 +64,7 @@ Doctoral Students
 
             **Choongin Lee**
 
-            - Bachelor's and master's degree at Seoul National University
+            - BAS and MAS at the Seoul National University
 
     .. grid-item::
 
@@ -78,8 +78,8 @@ Doctoral Students
 
             **Suyoung Choi**
 
-            - Bachelor's at the Joonang University
-            - Master's degree at KAIST
+            - BAS at the Joonang University
+            - MAS at KAIST
 
 
 
@@ -97,7 +97,7 @@ Doctoral Students
 
             **Hyeongjun Kim**
 
-            - Bachelor's and master's degree at KAIST
+            - BAS and MAS at KAIST
 
     .. grid-item::
 
@@ -111,8 +111,8 @@ Doctoral Students
 
             **Gwanghyeon Ji**
 
-            - Bachelor's at the POSTECH
-            - Master's degree at KAIST
+            - BAS at POSTECH
+            - MAS at KAIST
 
 
 ***************************
