@@ -6,11 +6,11 @@
 Welcome to RaiLab!
 =====================
 
-.. image:: ../_images/main/GroupPhoto.jpeg
+.. image:: _images/main/GroupPhoto.jpeg
    :width: 600
    :align: center
 
-.. image:: ../_images/main/RaiboSand.png
+.. image:: _images/main/RaiboSand.png
    :width: 600
    :align: center
 
