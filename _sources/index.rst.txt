@@ -6,6 +6,14 @@
 Welcome to railabsite's documentation!
 ======================================
 
+.. image:: ../_images/main/GroupPhoto.jpeg
+   :width: 600
+   :align: center
+
+.. image:: ../_images/main/RaiboSand.png
+   :width: 200
+   :align: center
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
