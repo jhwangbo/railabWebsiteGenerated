@@ -1,0 +1,12 @@
+********************************
+Domestic
+********************************
+
+
+1. 전승훈, 황보제민, 학습 기반 4족 로봇 동적 행동 제어, Quadrupedal robot dynamic motion control based on learning, The Korea Robotics Society Annual Conference, 2021, (한국로봇종합학술대회, 2021)
+
+2. 전승훈, 황보제민, 학습 기반 4족 보행과 2족 보행간 전환식 제어, Learning based switchable multimodal locomotion control between quadrupedal and bipedal locomotion modes, The Korea Robotics Society Annual Conference, 2021, (한국로봇종합학술대회, 2021), Best Paper Award
+
+3. 이정현, 최진혁, 황보제민, 강화학습을 사용한 험지 자율주행 경로계획 알고리즘 연구, Research on Rough Terrain Autonomous Driving Path Planning Algorithm Using Reinforcement Learning, (한국로봇종합학술대회, 2023)
+
+4. 최진혁, 이정현, 황보제민, 비포장 야지 자율주행을 위한 애커먼 스티어링 차륜 플랫폼 개발, Development of Ackermann Steering Car Platform for Autonomous Driving in Rough terrain, (한국로봇종합학술대회, 2023)

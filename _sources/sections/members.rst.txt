@@ -2,3 +2,94 @@
 Members
 #############################
 
+***************************
+Professor
+***************************
+
+.. image:: ../_images/members/JeminHwangbo.jpg
+  :width: 150
+
+**Jemin Hwangbo**
+
+- Bachelor's degree at the University of Toronto
+- Master's and PhD degree at ETH Zurich
+
+***************************
+Doctoral Students
+***************************
+
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/YongjaeKim.jpg
+          :width: 200
+          :align: center
+
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Yongjae Kim**
+
+            - Bachelor's and master's degree at the Tokyo Tech
+
+    .. grid-item::
+
+        .. image:: ../_images/members/DonghoonYoum.png
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Donghoon Youm**
+
+            - Bachelor's and master's degree at KAIST
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/ChoonginLee.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Choongin Lee**
+
+            - Bachelor's and master's degree at Seoul National University
+
+    .. grid-item::
+
+        .. image:: ../_images/members/SuyoungChoi.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Suyoung Choi**
+
+            - Bachelor's at the Joonang University
+            - Master's degree at KAIST
+
+
+
+
+***************************
+Master Students
+***************************
+
+***************************
+Alumni
+***************************
+
+
