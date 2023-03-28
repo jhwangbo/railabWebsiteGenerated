@@ -119,6 +119,135 @@ Doctoral Students
 Master Students
 ***************************
 
+
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/JeongsooPark.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Jeongsoo Park**
+
+            - BAS at KAIST
+
+    .. grid-item::
+
+        .. image:: ../_images/members/SeunghunJeon.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Seunghun Jeon**
+
+            - BAS at KAIST
+
+
+
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/JeonHyunLee.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Jeonghyun Lee**
+
+            - BAS at KAIST
+
+    .. grid-item::
+
+        .. image:: ../_images/members/JuhyeokMun.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **JuhyeokMun**
+
+            - BAS at the Seoul National University
+
+
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/HyunsikOh.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Hyunsik Oh**
+
+            - BAS at the Hanyang University
+
+    .. grid-item::
+
+        .. image:: ../_images/members/MoonkyuJung.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Moonkyu Jung**
+
+            - BAS at KAIST
+
+
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/SimoRyu.jpeg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Simo Ryu**
+
+            - BAS at the Korea University
+
+    .. grid-item::
+
+        .. image:: ../_images/members/YunhoKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Yunho Kim**
+
+            - BAS at the Seoul National University
+
 ***************************
 Alumni
 ***************************
