@@ -11,7 +11,7 @@ Welcome to railabsite's documentation!
    :align: center
 
 .. image:: ../_images/main/RaiboSand.png
-   :width: 200
+   :width: 600
    :align: center
 
 .. toctree::
