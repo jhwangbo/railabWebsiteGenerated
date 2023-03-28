@@ -125,7 +125,7 @@ Master Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/JeongsooPark.jpg
+        .. image:: ../_images/members/JeongsooPark.png
           :width: 200
           :align: center
 
@@ -158,7 +158,7 @@ Master Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/JeonHyunLee.jpg
+        .. image:: ../_images/members/JeongHyunLee.jpg
           :width: 200
           :align: center
 
@@ -190,7 +190,7 @@ Master Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/HyunsikOh.jpg
+        .. image:: ../_images/members/HyunsikOh.jpeg
           :width: 200
           :align: center
 
@@ -204,7 +204,7 @@ Master Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/MoonkyuJung.jpg
+        .. image:: ../_images/members/MoonkyuJung.jpeg
           :width: 200
           :align: center
 
