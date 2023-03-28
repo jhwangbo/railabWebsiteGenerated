@@ -83,6 +83,37 @@ Doctoral Students
 
 
 
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/HyeongjunKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Hyeongjun Kim**
+
+            - Bachelor's and master's degree at KAIST
+
+    .. grid-item::
+
+        .. image:: ../_images/members/GwanghyeonJi.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **Gwanghyeon Ji**
+
+            - Bachelor's at the POSTECH
+            - Master's degree at KAIST
+
 
 ***************************
 Master Students
