@@ -3,4 +3,7 @@ Education
 #############################
 
 * Robot dynamics
+
+Robot kinematics, whole-body control, Newton-Euler equation, inverse-dynamics control, Euler-Lagrange equation, project Newton-Euler equation, Composite rigid body algorithm, Recursive Newton Euler Algorithm, Articulated body algorithm
+
 * Learning-based control
