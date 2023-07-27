@@ -2,6 +2,12 @@
 Members
 #############################
 
+.. image:: ../_images/main/GroupPhoto.jpeg
+   :width: 700
+   :align: center
+
+Group photo at KAIST
+
 ***************************
 Professor
 ***************************
@@ -114,6 +120,23 @@ Doctoral Students
             - BAS at POSTECH
             - MAS at KAIST
 
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/JuhyeokMun.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-center sd-fs-5
+
+            **JuhyeokMun**
+
+            - BAS at the Seoul National University
+            - MAS at KAIST
+
 
 ***************************
 Master Students
@@ -172,7 +195,7 @@ Master Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/JuhyeokMun.jpg
+        .. image:: ../_images/members/YunhoKim.jpg
           :width: 200
           :align: center
 
@@ -180,9 +203,10 @@ Master Students
 
         .. div:: sd-text-center sd-fs-5
 
-            **JuhyeokMun**
+            **Yunho Kim**
 
             - BAS at the Seoul National University
+
 
 
 
@@ -234,19 +258,6 @@ Master Students
 
             - BAS at the Korea University
 
-    .. grid-item::
-
-        .. image:: ../_images/members/YunhoKim.jpg
-          :width: 200
-          :align: center
-
-    .. grid-item::
-
-        .. div:: sd-text-center sd-fs-5
-
-            **Yunho Kim**
-
-            - BAS at the Seoul National University
 
 ***************************
 Alumni

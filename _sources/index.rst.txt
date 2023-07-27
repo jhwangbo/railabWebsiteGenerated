@@ -6,21 +6,23 @@
 Welcome to RaiLab!
 =====================
 
-.. image:: _images/main/GroupPhoto.jpeg
-   :width: 700
-   :align: center
+.. video:: _static/raibo_video1.webm
+    :autoplay:
+    :loop:
+    :width: 700
+    :muted:
 
-Group photo at KAIST
-
-.. image:: _images/main/RaiboSand.png
-   :width: 700
-   :align: center
-
-Raibo Robot
+.. video:: _static/raibo_video2.webm
+    :autoplay:
+    :loop:
+    :width: 700
+    :muted:
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+
 
    sections/education
    sections/members
