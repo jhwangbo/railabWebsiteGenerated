@@ -1,0 +1,14 @@
+********************************
+Learning-based Control
+********************************
+
+Legged robots often face challenges due to their high degrees of freedom and the difficulty of accurately modeling complex environments. These factors discourage the development of robust and stable controllers. However, by leveraging reinforcement learning(RL) techniques, we have successfully developed locomotion controllers that enable the quadrupedal robots to adapt and traverse through challenging terrains such as rough, slippery, and deformable surfaces. This learning-based approach not only improves robustness and stability but also reduces dependency on accruate and computationally intensive models, making our controllers well-suited for practical applications in dynamic and unpredictable environments.
+
+Through extensive experimentation, we have demonstrated the effectiveness of our RL-based locomotion controllers. The list of our work is shown below.
+
+- Suyoung Choi et al., Learning quadrupedal locomotion on deformable terrain. Sci. Robot. 8, eade2256(2023) `paper <https://www.science.org/doi/full/10.1126/scirobotics.ade2256>`_ `video <https://www.youtube.com/watch?v=dt1u8zwUMok>`_
+- Gwanghyeon Ji et al., "Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 4630-4637, April 2022 `paper <https://ieeexplore.ieee.org/abstract/document/9714001>`_ `video <https://www.youtube.com/watch?v=9QV0Nnm80tU>`_
+- Blind locomotion through the natural environment characterized by steep slopes and scattered debris (ongoing) `video1 <https://www.youtube.com/watch?v=f696z7Mx6Ls>`_ `video2 <https://www.youtube.com/watch?v=yV-tP3DHXes>`_
+- Whole body control for pushing objects (ongoing)
+- Dynamic locomotion for traversing stepping stones (ongoing)
+

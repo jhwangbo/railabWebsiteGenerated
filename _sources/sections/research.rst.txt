@@ -2,3 +2,8 @@
 Research
 #############################
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+
+    learning_based_control

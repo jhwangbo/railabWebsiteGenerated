@@ -23,12 +23,12 @@ Welcome to RaiLab!
    :caption: Contents:
 
 
-
-   sections/education
+   sections/research
+   sections/robots
    sections/members
    sections/news
    sections/publication
-   sections/research
-   sections/robots
+   sections/projects
    sections/software
+   sections/education
    sections/openpositions
