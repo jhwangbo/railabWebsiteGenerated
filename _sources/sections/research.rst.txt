@@ -7,3 +7,4 @@ Research
     :caption: Contents:
 
     learning_based_control
+    robot_design

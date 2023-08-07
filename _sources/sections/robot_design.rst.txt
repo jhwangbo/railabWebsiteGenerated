@@ -1,0 +1,53 @@
+#############################
+Robot Design
+#############################
+
+*****************************
+Hardware Platform
+*****************************
+
+
+ Our Lab directly creates all the components to experiment with a controller to which the learning algorithm is applied.
+ 
+.. grid:: 1
+ 
+	.. grid-item-card::
+ 	
+	  .. image:: ../_images/robot_design/raibo_4.jpeg
+	    :align: center
+
+
+ Raibo, made by Railab, has hardware that can withstand shocks under various conditions and operate robustly regardless of the environment. We also design its own driving units, which are key components consisting of decelerators, motors, encoders, and motor drivers. With its own form factor, it plays a major role in achieving high efficiency during operation.
+ 
+ 
+ .. grid:: 2
+ 
+ 	.. grid-item-card::
+ 	
+	  .. image:: ../_images/robot_design/raibo_1.jpg
+	    :width: 400
+	    :align: center
+
+	
+	.. grid-item-card::
+	
+	  .. image:: ../_images/robot_design/raibo_2.JPG
+	    :width: 400
+	    :align: center
+  
+.. div:: sd-text-center sd-fs-6
+
+    Left : Raibo Driving-Units / Right : Raibo Leg
+	  
+	  
+
+Through various simulations, we demonstrate that we can operate robustly and efficiently in various situations.
+The list of our work is shown below.
+
+- J. Hwangbo, J. Lee and M. Hutter, "Per-Contact Iteration Method for Solving Contact Dynamics," in IEEE Robotics and Automation Letters, vol. 3, no. 2, pp. 895-902, April 2018, doi: 10.1109/LRA.2018.2792536. `Paper <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8255551>`_ `Video <https://www.youtube.com/watch?v=-Xy1DUTLnnE>`_
+
+- S. Choi et al. ,Learning quadrupedal locomotion on deformable terrain.Sci. Robot.8,eade2256(2023).DOI:10.1126/scirobotics.ade2256 `Paper <https://www.science.org/doi/epdf/10.1126/scirobotics.ade2256>`_ `Video <https://www.youtube.com/watch?v=dt1u8zwUMok>`_
+
+- J. Hwangbo, C. D. Bellicoso, P. Fankhauser and M. Hutter, "Probabilistic foot contact estimation by fusing information from dynamics and differential/forward kinematics," 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, Korea (South), 2016, pp. 3872-3878, doi: 10.1109/IROS.2016.7759570. `Paper <https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/119957/eth-49681-01.pdf>`_
+
+- J. Hwangbo, et al. "Variable impedance control for legged robots." Dynamic Walking (2014). `Paper <https://dynamicwalking.ethz.ch/paper/viewFile/94/94-462-1-PB.pdf>`_
