@@ -87,3 +87,16 @@ The list of our work is shown below.
 
 - J. Hwangbo, et al. "Variable impedance control for legged robots." Dynamic Walking (2014). `Paper6 <https://dynamicwalking.ethz.ch/paper/viewFile/94/94-462-1-PB.pdf>`_
 
+
+We are rigorously pursuing research in the electronics sector for pushing hardware utilization to the extreme. Our research extends from designing power circuit, crucial for handling inrush currents and regenerative braking during impacts, to high-power, high-bandwidth motor drivers. The circuit design, artwork, SMT, and testing are all performed in-house.
+
+.. image:: ../_images/robot_design/schematic_artwork.png
+	:align: center
+.. centered:: Left: circuit drawing, Right: component layout.
+
+
+.. image:: ../_images/robot_design/smt_testing.png
+	:align: center
+.. centered:: Left: SMT assembly, Right: testing.
+
+Leveraging our deep understanding of power electronics and robotic systems, we are not just enabling robots to utilize the extreme area of motor capabilities, but also contributing to bridging the sim-to-real gap. Furthermore, taking into account the characteristics of each electronics component, we can build high power and low noise motor driver in a small form factor and facilitate it into efficient locomotion.
