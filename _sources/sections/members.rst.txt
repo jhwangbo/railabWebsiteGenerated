@@ -36,7 +36,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Yongjae Kim**
 
@@ -50,7 +50,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Donghoon Youm**
 
@@ -66,7 +66,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Choongin Lee**
 
@@ -80,7 +80,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Suyoung Choi**
 
@@ -99,7 +99,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Hyeongjun Kim**
 
@@ -113,7 +113,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Gwanghyeon Ji**
 
@@ -130,7 +130,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **JuhyeokMun**
 
@@ -154,7 +154,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Jeongsoo Park**
 
@@ -168,7 +168,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Seunghun Jeon**
 
@@ -187,7 +187,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Jeonghyun Lee**
 
@@ -201,7 +201,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Yunho Kim**
 
@@ -220,7 +220,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Hyunsik Oh**
 
@@ -234,7 +234,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Moonkyu Jung**
 
@@ -252,7 +252,7 @@ Master Students
 
     .. grid-item::
 
-        .. div:: sd-text-center sd-fs-5
+        .. div:: sd-text-left sd-fs-5
 
             **Simo Ryu**
 
