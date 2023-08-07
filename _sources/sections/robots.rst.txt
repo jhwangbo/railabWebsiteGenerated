@@ -6,7 +6,7 @@ Robots
 Raibo
 ********************************
 
-.. image:: ../_images/raibo/Raibo_small.png
+.. image:: ../_images/robots/Raibo_small.png
     :alt: Raibo
     :width: 100%
     :align: center
@@ -54,6 +54,10 @@ In the series of our projects, Raibo has showcased stunningly agile and robust l
 ********************************
 Mini Cheetah
 ********************************
+
+.. image:: ../_images/robots/Minicheetah.png
+    :width: 75%
+    :align: center
 
 Mini Cheetah is a small, agile four-legged robot which is originally developed by MIT Biomimetic Robotics Lab and manufactured by Naver Labs. 
 Its compact size and powerful actuators allow researchers to fearlessly conduct experiments. 

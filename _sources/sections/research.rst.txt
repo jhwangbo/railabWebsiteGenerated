@@ -37,6 +37,8 @@ Through extensive experimentation, we have demonstrated the effectiveness of our
 - Whole body control for pushing objects (ongoing)
 - Dynamic locomotion for traversing stepping stones (ongoing)
 
+----
+
 *****************************
 Hardware Platform
 *****************************

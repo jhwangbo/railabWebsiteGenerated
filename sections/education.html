@@ -53,7 +53,11 @@
 <li class="toctree-l1"><a class="reference internal" href="publication.html">Publications</a></li>
 <li class="toctree-l1"><a class="reference internal" href="projects.html">Projects</a></li>
 <li class="toctree-l1"><a class="reference internal" href="software.html">Software</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Education</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Education</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#robot-dynamics-spring-semester">Robot dynamics - Spring semester</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#learning-based-control-fall-semester">Learning-based control - Fall semester</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="openpositions.html">Open position</a></li>
 </ul>
 
@@ -83,13 +87,29 @@
              
   <section id="education">
 <h1>Education<a class="headerlink" href="#education" title="Permalink to this heading"></a></h1>
-<ul class="simple">
-<li><p>Robot dynamics</p></li>
-</ul>
-<p>Robot kinematics, whole-body control, Newton-Euler equation, inverse-dynamics control, Euler-Lagrange equation, project Newton-Euler equation, Composite rigid body algorithm, Recursive Newton Euler Algorithm, Articulated body algorithm</p>
-<ul class="simple">
-<li><p>Learning-based control</p></li>
-</ul>
+<section id="robot-dynamics-spring-semester">
+<h2>Robot dynamics - Spring semester<a class="headerlink" href="#robot-dynamics-spring-semester" title="Permalink to this heading"></a></h2>
+<a class="reference internal image-reference" href="../_images/articulatedSystem.png"><img alt="../_images/articulatedSystem.png" class="align-center" src="../_images/articulatedSystem.png" style="width: 100%;" /></a>
+<p>The course introduces dynamics of rigid articulated system, a system composed of multiple bodies and joints. We
+are mainly concerned with forward dynamics of articulated systems for simulation. The main tool of the course
+is recursive methods (ABA, CRBA and RNE) which are purely Newtonian formalism. But we will also briefly
+talk about other approaches (e.g., Lagrangian formalism). We will also study non-smooth dynamics of contacts.</p>
+<p><strong>Keywords:</strong> Robot kinematics, whole-body control, Newton-Euler equation, inverse-dynamics control, Euler-Lagrange equation, project Newton-Euler equation, Composite rigid body algorithm, Recursive Newton Euler Algorithm, Articulated body algorithm</p>
+</section>
+<section id="learning-based-control-fall-semester">
+<h2>Learning-based control - Fall semester<a class="headerlink" href="#learning-based-control-fall-semester" title="Permalink to this heading"></a></h2>
+<iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center" src="https://www.youtube.com/embed/G6D4bLg1WcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><p>This course introduces general concepts for learning-based control with a special focus on deep reinforcement
+learning. The theories and methodologies taught in this class are aiming at solving very complicated nonlinear,
+nonsmooth and hybrid systems that typical control methods cannot solve. All methods extract necessary
+information through interactions with the environment and store it in a general and scalable function
+approximator, such as a deep neural network. In order to build a solid theoretical foundation, this lecture first
+introduces basic concepts of optimal control, such as Bellman’s optimality condition and HJB equation. Then, the
+lecture will focus on reinforcement learning, from basic concepts to recent research trends. Many problems are
+formulated as a Markov Decision Process (MDP) but a few systems that cannot be modeled as such will also be
+introduced. There will be multiple programming exercises throughout the course.</p>
+<p><strong>Keywords:</strong> Learning-based control, Deep reinforcement learning, Markov Decision Process, Bellman’s optimality condition</p>
+</section>
 </section>
 
 

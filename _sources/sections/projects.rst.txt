@@ -1,3 +1,31 @@
 #############################
 Projects
 #############################
+
+********************************
+Quadrupedal locomotion
+********************************
+
+.. image:: ../_images/projects/samsung_1.png
+    :width: 100%
+    :align: center
+
+Our work for quadrupedal locomotion for stepping stones is funded by Samsung Research Funding & Incubation Center of Samsung Electronics
+
+----
+
+********************************
+Mobile manipulation
+********************************
+
+.. .. image:: ../_images/projects/rainbow_1.png
+..     :width: 100%
+..     :align: center
+
+.. |
+
+.. .. image:: ../_images/projects/rainbow_2.png
+..     :width: 100%
+..     :align: center
+
+Our work for mobile manipulation on challenging environments is funded by Korea Evaluation Institute of Industrial Technology (KEIT)

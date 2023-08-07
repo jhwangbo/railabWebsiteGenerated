@@ -6,7 +6,9 @@ Members
    :width: 700
    :align: center
 
-Group photo at KAIST
+.. div:: sd-text-center sd-fs-5
+
+    Group photo at KAIST
 
 ***************************
 Professor
@@ -60,7 +62,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/ChoonginLee.jpg
+        .. image:: ../_images/members/ChoonginLee_cut.jpg
           :width: 200
           :align: center
 
@@ -148,7 +150,7 @@ Master Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/JeongsooPark.png
+        .. image:: ../_images/members/JeongSooPark_cut.png
           :width: 200
           :align: center
 
@@ -263,4 +265,34 @@ Master Students
 Alumni
 ***************************
 
+.. grid:: 1 2 3 4
 
+    .. grid-item::
+
+        .. image:: ../_images/members/JooWoongByun.png
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Joowoong Byun**
+
+            - BAS at the Yonsei University
+            - MAS at KAIST
+
+    .. grid-item::
+
+        .. image:: ../_images/members/SeungyeonHwang.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Seungyeon Hwang**
+
+            - BAS at the Sungkyunkwan University
+            - MAS at KAIST
