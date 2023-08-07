@@ -1,0 +1,43 @@
+********************************
+Raibo
+********************************
+
+.. image:: ../_images/raibo/Raibo_small.png
+    :alt: Raibo
+    :width: 100%
+    :align: center
+
+Raibo is a versatile, middle-sized quadrupedal robot developed by Railab. Its size is appropriate for performing practical tasks such as industrial inspection, exploration, and patrol, and the 12 powerful motors enable highly dynamic maneuvers. Its actuation system and built-in software capable of high-frequency motor control allow for leveraging advanced control methodologies. In the series of our projects, Raibo has showcased stunningly agile and robust locomotion skills over various challenging terrains including hills, stairs, and even sand `[1] <https://www.science.org/doi/full/10.1126/scirobotics.ade2256>`_, [2].
+
+**Selected Works**
+
+`[1] <https://www.science.org/doi/full/10.1126/scirobotics.ade2256>`_ Suyoung Choi et al., Learning quadrupedal locomotion on deformable terrain. Sci. Robot. 8, eade2256(2023)
+
+.. only:: html
+
+    .. raw:: html
+
+        <iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center"
+        src="https://www.youtube.com/embed/dt1u8zwUMok?autoplay=1&mute=1"
+        title="Learning quadrupedal locomotion on deformable terrain"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+        </iframe>
+        <br>
+
+
+[2] Blind locomotion through the natural environment characterized by steep slopes and scattered debris (ongoing)
+
+.. only:: html
+
+    .. raw:: html
+
+        <iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center"
+        src="https://www.youtube.com/embed/f696z7Mx6Ls?autoplay=1&mute=1"
+        title="Blind locomotion through the natural environment characterized by steep slopes and scattered debris (ongoing)"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+        </iframe>
+        <br>

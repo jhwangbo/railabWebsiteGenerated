@@ -4,4 +4,19 @@ Mini Cheetah
 
 Mini Cheetah is a small, agile four-legged robot which is originally developed by MIT Biomimetic Robotics Lab and manufactured by Naver Labs. Its compact size and powerful actuators allow researchers to fearlessly conduct experiments. Railab utilizes its full potential to develop dynamic and agile locomotion controllers. Trained using reinforcement learning, the Mini Cheetah is capable of high-speed locomotion on various terrains such as asphalt, slippery terrain, and slopes `[1] <https://ieeexplore.ieee.org/abstract/document/9714001>`_.
 
-.. youtube:: 9QV0Nnm80tU
+**Selected Works**
+
+`[1] <https://ieeexplore.ieee.org/abstract/document/9714001>`_ Gwanghyeon Ji et al., "Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 4630-4637, April 2022
+
+.. only:: html
+
+    .. raw:: html
+
+        <iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center"
+        src="https://www.youtube.com/embed/9QV0Nnm80tU?autoplay=1&mute=1"
+        title="Learning quadrupedal locomotion on deformable terrain"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+        </iframe>
+        <br>
