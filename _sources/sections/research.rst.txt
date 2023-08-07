@@ -44,6 +44,10 @@ Hardware Platform
 *****************************
 
 
++++++++++++++++++++++++++++++
+Mechanical Design
++++++++++++++++++++++++++++++
+
 Our Lab directly creates all the components to experiment with a controller to which the learning algorithm is applied.
  
 .. image:: ../_images/robot_design/raibo_6.png
@@ -82,8 +86,9 @@ The list of our work is shown below.
 
 - J. Hwangbo, et al. "Cable-driven actuation for highly dynamic robotic systems." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. `Paper3 <https://arxiv.org/pdf/1806.10632.pdf>`_
 
-- J. Hwangbo, et al. "Variable impedance control for legged robots." Dynamic Walking (2014). `Paper4 <https://dynamicwalking.ethz.ch/paper/viewFile/94/94-462-1-PB.pdf>`_
-
++++++++++++++++++++++++++++++
+Electrical Design
++++++++++++++++++++++++++++++
 
 We are rigorously pursuing research in the electronics sector for pushing hardware utilization to the extreme. Our research extends from designing power circuit, crucial for handling inrush currents and regenerative braking during impacts, to high-power, high-bandwidth motor drivers. The circuit design, artwork, SMT, and testing are all performed in-house.
 

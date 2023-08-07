@@ -48,7 +48,11 @@
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Research</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#learning-based-control">Learning-based Control</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#hardware-platform">Hardware Platform</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#hardware-platform">Hardware Platform</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#mechanical-design">Mechanical Design</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#electrical-design">Electrical Design</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="robots.html">Robots</a></li>
@@ -112,6 +116,8 @@
 <hr class="docutils" />
 <section id="hardware-platform">
 <h2>Hardware Platform<a class="headerlink" href="#hardware-platform" title="Permalink to this heading"></a></h2>
+<section id="mechanical-design">
+<h3>Mechanical Design<a class="headerlink" href="#mechanical-design" title="Permalink to this heading"></a></h3>
 <p>Our Lab directly creates all the components to experiment with a controller to which the learning algorithm is applied.</p>
 <a class="reference internal image-reference" href="../_images/raibo_6.png"><img alt="../_images/raibo_6.png" class="align-center" src="../_images/raibo_6.png" style="width: 100%;" /></a>
 <p class="centered">
@@ -129,17 +135,17 @@ The list of our work is shown below.</p>
 <li><p>Hwangbo, et al. “Cable-driven actuation for highly dynamic robotic systems.” 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. <a class="reference external" href="https://arxiv.org/pdf/1806.10632.pdf">Paper3</a></p></li>
 </ol>
 </li>
-<li><ol class="upperalpha simple" start="10">
-<li><p>Hwangbo, et al. “Variable impedance control for legged robots.” Dynamic Walking (2014). <a class="reference external" href="https://dynamicwalking.ethz.ch/paper/viewFile/94/94-462-1-PB.pdf">Paper4</a></p></li>
-</ol>
-</li>
 </ul>
+</section>
+<section id="electrical-design">
+<h3>Electrical Design<a class="headerlink" href="#electrical-design" title="Permalink to this heading"></a></h3>
 <p>We are rigorously pursuing research in the electronics sector for pushing hardware utilization to the extreme. Our research extends from designing power circuit, crucial for handling inrush currents and regenerative braking during impacts, to high-power, high-bandwidth motor drivers. The circuit design, artwork, SMT, and testing are all performed in-house.</p>
 <img alt="../_images/schematic_artwork.png" class="align-center" src="../_images/schematic_artwork.png" />
 <p class="centered">
 <strong>Left: circuit drawing, Right: component layout. (Blurred image for security)</strong></p><img alt="../_images/smt_testing.png" class="align-center" src="../_images/smt_testing.png" />
 <p class="centered">
 <strong>Left: SMT assembly, Right: testing.</strong></p><p>Leveraging our deep understanding of power electronics and robotic systems, we are not just enabling robots to utilize the extreme area of motor capabilities, but also contributing to bridging the sim-to-real gap. Furthermore, taking into account the characteristics of each electronics component, we can build high power and low noise motor driver in a small form factor and facilitate it into efficient locomotion.</p>
+</section>
 </section>
 </section>
 
