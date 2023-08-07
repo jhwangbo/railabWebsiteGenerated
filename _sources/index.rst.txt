@@ -44,17 +44,17 @@ Welcome to RaiLab!
 	    <div class="grid" style="display: flex; gap: 1rem;">
 		<div class="grid-item">
 		    <a href="https://me.kaist.ac.kr/main/main.html" target="_blank">
-		        <img src="_images/kaist.png" alt="IMAGE ALT TEXT HERE" style="width: 210px; padding:10px;"  class="grid-item" >
+		        <img src="_images/kaist.png" style="width: 210px; padding:10px;"  class="grid-item" >
 		    </a>
 		</div>
 		<div class="grid-item">
 		    <a href="https://railab.kaist.ac.kr/" target="_blank">
-		        <img src="_images/railab.png" alt="IMAGE ALT TEXT HERE" style="width: 200px; padding:10px; margin-left:10px; margin-right:10px;" class="grid-item">
+		        <img src="_images/railab.png" style="width: 200px; padding:10px; margin-left:10px; margin-right:10px;" class="grid-item">
 		    </a>
 		</div>
 		<div class="grid-item">
 		    <a href="https://www.youtube.com/@railabkaist9016" target="_blank">
-		        <img src="_images/youtube.svg" alt="IMAGE ALT TEXT HERE" style="width: 150px; padding:8px; margin-right:30px;" class="grid-item">
+		        <img src="_images/youtube.svg" style="width: 150px; padding:8px; margin-right:30px;" class="grid-item">
 		    </a>
 		</div>
 	    </div>
