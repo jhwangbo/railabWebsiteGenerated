@@ -24,13 +24,14 @@ In the series of our projects, Raibo has showcased stunningly agile and robust l
 
     .. raw:: html
 
-        <iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center"
+        <div style="padding-top: 0px; padding-bottom: 56.25%; width: 100%; position: relative">
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; display: block; margin: auto; align:center"
         src="https://www.youtube.com/embed/dt1u8zwUMok?autoplay=1&mute=1"
         title="Learning quadrupedal locomotion on deformable terrain"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
-        </iframe>
+        </iframe></div>
         <br>
 
 
@@ -40,13 +41,14 @@ In the series of our projects, Raibo has showcased stunningly agile and robust l
 
     .. raw:: html
 
-        <iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center"
+        <div style="padding-top: 0px; padding-bottom: 56.25%; width: 100%; position: relative">
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; display: block; margin: auto; align:center"
         src="https://www.youtube.com/embed/f696z7Mx6Ls?autoplay=1&mute=1"
         title="Blind locomotion through the natural environment characterized by steep slopes and scattered debris (ongoing)"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
-        </iframe>
+        </iframe></div>
         <br>
 
 ----
@@ -72,13 +74,14 @@ Trained using reinforcement learning, the Mini Cheetah is capable of high-speed 
 
     .. raw:: html
 
-        <iframe style="display: block; margin: auto;" width="696" height="391.5" style="align:center"
+        <div style="padding-top: 0px; padding-bottom: 56.25%; width: 100%; position: relative">
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; display: block; margin: auto; align:center"
         src="https://www.youtube.com/embed/9QV0Nnm80tU?autoplay=1&mute=1"
-        title="Learning quadrupedal locomotion on deformable terrain"
+        title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
-        </iframe>
+        </iframe></div>
         <br>
 
 ----
