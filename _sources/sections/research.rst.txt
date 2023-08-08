@@ -40,6 +40,28 @@ Through extensive experimentation, we have demonstrated the effectiveness of our
 ----
 
 *****************************
+Autonomous Navigation
+*****************************
+
+Legged robots have great potential for exploring a diverse range of environments accessible to both humans and animals. 
+These encompass urban settings as well as natural landscapes like forests and mountains.
+However, navigating autonomously in these environments is challenging as it requires the integration of semantic and geometric reasoning for path planning, 
+while also accounting for the robot's physical constraints and controller characteristics for path tracking. In our lab, we're actively combining learning-based approaches with classical methods to build an autonomous navigation framework.
+The framework includes traversibility estimation, efficient path and motion planning, and precise path tracking algorithms.
+Our ultimate goal is to develop a navigation system that can be applied to various tasks, including autonomous indoor and outdoor inspections.
+The list of our work is shown below.
+
+- Yunho Kim et al., “Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation,” in Proceedings of Robotics: Science and Systems, New York City, NY, USA, June 2022. `paper1 <https://arxiv.org/abs/2204.08647>`_ `video1 <https://youtu.be/-UTEL6zHNv4>`_
+
+.. image:: ../_images/research/ComplexEnvNavigationDiagram.png
+   :width: 100%
+   :align: center
+
+.. centered:: Left: Autonomous Navigation Framework, Right: Test in the Physics Simulation
+
+----
+
+*****************************
 Hardware Platform
 *****************************
 
