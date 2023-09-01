@@ -40,6 +40,7 @@ Our work was highlighed on lots of broadcast media (Korean)
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; display: block; margin: auto; align:center"
         src="https://www.youtube.com/embed/86dtiv1Z3Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
         </iframe></div>
+        <br>
 
 |
 
@@ -51,5 +52,7 @@ Our work was highlighed on lots of broadcast media (Korean)
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; display: block; margin: auto; align:center"
         src="https://www.youtube.com/embed/IYh2fbw8pVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
         </iframe></div>
+        <br>
 
 |
+
