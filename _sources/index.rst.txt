@@ -12,6 +12,7 @@ Welcome to RaiLab!
     :width: 700
     :muted:
 |
+
 .. video:: _static/raibo_video2.webm
     :autoplay:
     :loop:

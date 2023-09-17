@@ -90,7 +90,7 @@ Our Lab directly creates all the components to experiment with a controller to w
 
 
 Raibo, made by Railab, has hardware that can withstand shocks under various conditions and operate robustly regardless of the environment. 
-We also design its own driving units, which are key components consisting of decelerators, motors, encoders, and motor drivers. 
+We also design its own driving units, which are key components consisting of motors, motor reducers, encoders, and motor drivers. 
 With its own form factor, it plays a major role in achieving high efficiency during operation.
  
  
