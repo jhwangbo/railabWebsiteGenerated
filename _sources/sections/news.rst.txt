@@ -59,7 +59,7 @@ Our work was highlighed on lots of broadcast media (Korean)
 
 **Webinars**
 
-Development and Related Research of LaiBo at KAIST (2023.06.22)
+Development and Related Research of RaiBo at KAIST (2023.06.22)
 
 .. only:: html
 
