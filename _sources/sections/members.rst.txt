@@ -241,6 +241,20 @@ Master Students
 
             - BAS at the Korea University
 
+    .. grid-item::
+
+        .. image:: ../_images/members/KyeongminNam.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Kyeongmin Nam**
+
+            - BAS at KAIST
+
 
 ***************************
 Alumni
