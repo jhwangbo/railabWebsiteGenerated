@@ -139,15 +139,6 @@ Doctoral Students
             - BAS at the Seoul National University
             - MAS at KAIST
 
-
-***************************
-Master Students
-***************************
-
-
-
-.. grid:: 1 2 3 4
-
     .. grid-item::
 
         .. image:: ../_images/members/JeongSooPark_cut.png
@@ -161,6 +152,9 @@ Master Students
             **Jeongsoo Park**
 
             - BAS at KAIST
+            - MAS at KAIST
+
+.. grid:: 1 2 3 4
 
     .. grid-item::
 
@@ -175,13 +169,9 @@ Master Students
             **Seunghun Jeon**
 
             - BAS at KAIST
+            - MAS at KAIST
 
-
-
-
-.. grid:: 1 2 3 4
-
-    .. grid-item::
+ .. grid-item::
 
         .. image:: ../_images/members/JeongHyunLee.jpg
           :width: 200
@@ -194,20 +184,11 @@ Master Students
             **Jeonghyun Lee**
 
             - BAS at KAIST
+            - MAS at KAIST
 
-    .. grid-item::
-
-        .. image:: ../_images/members/YunhoKim.jpg
-          :width: 200
-          :align: center
-
-    .. grid-item::
-
-        .. div:: sd-text-left sd-fs-5
-
-            **Yunho Kim**
-
-            - BAS at the Seoul National University
+***************************
+Master Students
+***************************
 
 
 
@@ -296,3 +277,20 @@ Alumni
 
             - BAS at the Sungkyunkwan University
             - MAS at KAIST
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/YunhoKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Yunho Kim**
+
+            - BAS at the Seoul National University
+
