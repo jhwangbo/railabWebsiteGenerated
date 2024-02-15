@@ -256,6 +256,23 @@ Master Students
             - BAS at KAIST
 
 
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/MinhoLee.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Minho Lee**
+
+            - BAS at KAIST
+
 ***************************
 Alumni
 ***************************
