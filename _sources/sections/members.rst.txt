@@ -19,7 +19,7 @@ Professor
 
 **Jemin Hwangbo**
 
-- Bachelor's degree at the University of Toronto
+- Bachelor's degree at University of Toronto
 - Master's and PhD degree at ETH Zurich
 
 ***************************
@@ -42,7 +42,7 @@ Doctoral Students
 
             **Yongjae Kim**
 
-            - BAS, MAS at the Tokyo Tech
+            - BAS, MAS at Tokyo Tech
 
     .. grid-item::
 
@@ -72,7 +72,7 @@ Doctoral Students
 
             **Choongin Lee**
 
-            - BAS and MAS at the Seoul National University
+            - BAS and MAS at Seoul National University
 
     .. grid-item::
 
@@ -86,7 +86,7 @@ Doctoral Students
 
             **Suyoung Choi**
 
-            - BAS at the Chung-Ang University
+            - BAS at Chung-Ang University
             - MAS at KAIST
 
 
@@ -136,7 +136,7 @@ Doctoral Students
 
             **JuhyeokMun**
 
-            - BAS at the Seoul National University
+            - BAS at Seoul National University
             - MAS at KAIST
 
     .. grid-item::
@@ -207,7 +207,7 @@ Master Students
 
             **Hyunsik Oh**
 
-            - BAS at the Hanyang University
+            - BAS at Hanyang University
 
     .. grid-item::
 
@@ -239,7 +239,7 @@ Master Students
 
             **Simo Ryu**
 
-            - BAS at the Korea University
+            - BAS at Korea University
 
     .. grid-item::
 
@@ -291,7 +291,7 @@ Alumni
 
             **Joowoong Byun**
 
-            - BAS at the Yonsei University
+            - BAS at Yonsei University
             - MAS at KAIST
 
     .. grid-item::
@@ -306,7 +306,7 @@ Alumni
 
             **Seungyeon Hwang**
 
-            - BAS at the Sungkyunkwan University
+            - BAS at Sungkyunkwan University
             - MAS at KAIST
 
 .. grid:: 1 2 3 4
@@ -323,5 +323,5 @@ Alumni
 
             **Yunho Kim**
 
-            - BAS at the Seoul National University
+            - BAS at Seoul National University
 
