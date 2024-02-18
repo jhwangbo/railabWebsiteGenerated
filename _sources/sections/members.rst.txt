@@ -151,8 +151,7 @@ Doctoral Students
 
             **Jeongsoo Park**
 
-            - BAS at KAIST
-            - MAS at KAIST
+            - BAS, MAS at KAIST
 
 .. grid:: 1 2 3 4
 
@@ -168,8 +167,7 @@ Doctoral Students
 
             **Seunghun Jeon**
 
-            - BAS at KAIST
-            - MAS at KAIST
+            - BAS, MAS at KAIST
 
     .. grid-item::
 
@@ -183,8 +181,7 @@ Doctoral Students
 
             **Jeonghyun Lee**
 
-            - BAS at KAIST
-            - MAS at KAIST
+            - BAS, MAS at KAIST
 
 ***************************
 Master Students
