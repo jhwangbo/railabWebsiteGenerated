@@ -324,4 +324,5 @@ Alumni
             **Yunho Kim**
 
             - BAS at Seoul National University
+            - MAS at KAIST
 
