@@ -72,7 +72,7 @@ Doctoral Students
 
             **Choongin Lee**
 
-            - BAS and MAS at Seoul National University
+            - BAS, MAS at Seoul National University
 
     .. grid-item::
 
@@ -105,7 +105,7 @@ Doctoral Students
 
             **Hyeongjun Kim**
 
-            - BAS and MAS at KAIST
+            - BAS, MAS at KAIST
 
     .. grid-item::
 
