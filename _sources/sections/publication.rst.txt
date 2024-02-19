@@ -6,6 +6,10 @@ Publications
 International
 ********************************
 
+**2024**
+
+#. Lee, Jeong Hyun; Choi, Jinhyeok; Ryu, Simo; Oh, Hyunsik; Choi, Suyoung; Hwangbo, Jemin; Learning Vehicle Dynamics from Cropped Image Patches for Robot Navigation in Unpaved Outdoor Terrains, IEEE Robotics and Automation Letters
+
 **2023**
 
 #. Lee, Seokju; Jeon, Seunghun; Hwangbo, Jemin; 	Learning Legged Mobile Manipulation Using Reinforcement Learning,	Robot Intelligence Technology and Applications 7: Results from the 10th International Conference on Robot Intelligence Technology and Applications.
