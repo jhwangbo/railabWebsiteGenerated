@@ -3,6 +3,20 @@ Projects
 #############################
 
 ********************************
+Robust Humanoid Robots
+********************************
+
+.. image:: ../_images/projects/motie_1.png
+    :width: 100%
+    :align: center
+
+We are collaborating with KAIST's `URL <https://urobot.kaist.ac.kr/>`_/`DRCD <https://dynamicrobot.kaist.ac.kr/>`_/`CLVR <https://www.clvrai.com/>`_, MIT's `Biomemetic Robotics Lab <https://biomimetics.mit.edu/>`_, and `Rainbow Robotics <https://www.rainbow-robotics.com/>`_ to develop a humanoid robot with agile movement, obstacle avoidance, and autonomous dual-arm manipulation.
+
+Our work on robust humanoid robots is funded by Republic Korea's Ministry of Trade, Industry and Energy (`MOTIE <https://www.motie.go.kr/>`_)
+
+----
+
+********************************
 Quadrupedal locomotion
 ********************************
 
