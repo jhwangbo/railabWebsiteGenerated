@@ -252,6 +252,10 @@ Master Students
 
             - BAS at KAIST
 
+
+
+.. grid:: 1 2 3 4
+
     .. grid-item::
 
         .. image:: ../_images/members/MinhoLee.jpg
@@ -263,21 +267,6 @@ Master Students
         .. div:: sd-text-left sd-fs-5
 
             **Minho Lee**
-
-            - BAS at KAIST
-
-    .. grid-item::
-
-        .. image:: ../_images/members/HyunghoChoi.jpg
-          :width: 200
-          :align: center
-          :target: https://gleaming-eyelash-e7b.notion.site/Hyungho-Chris-Choi-5b61ec71c64c4e63a45a212facf9a0fa
-
-    .. grid-item::
-
-        .. div:: sd-text-left sd-fs-5
-
-            **Hyungho Choi**
 
             - BAS at KAIST
 
