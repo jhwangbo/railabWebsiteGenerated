@@ -2,7 +2,7 @@
 Projects
 #############################
 
-This page ourlines our lab's work around the world, organized according to important **ongoing projects**.
+This page outlines our lab's work around the world, organized according to important **ongoing initiatives**.
 
 ********************************
 Robust Humanoid Robots
