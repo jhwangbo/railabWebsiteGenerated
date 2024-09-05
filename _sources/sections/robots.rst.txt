@@ -1,9 +1,33 @@
 #############################
 Robots
 #############################
+********************************
+RAIBO 2
+********************************
+
+.. image:: ../_images/robots/Raibo2_on-jig.jpg
+    :alt: Raibo2
+    :width: 100%
+    :align: center
+
+RAIBO2 is a robust and energy-efficient quadrupedal robot designed for long-term use in challenging environments, developed by RAILAB. 
+It weighs 42 kg and can reach speeds of up to 6 m/s, ensuring reliable performance with up to 8 hours of continuous operation. Its modular hollow-shaft actuators provide both strength and flexibility, enabling it to handle demanding tasks with precision. 
+Additionally, RAIBO2 is designed to be easily serviceable and manufacturable, making it a practical and cost-effective solution for industrial applications where durability and efficiency are essential.
 
 ********************************
-Raibo
+RAIWAY
+********************************
+
+.. image:: ../_images/robots/raiway.jpg
+    :alt: Raibo2
+    :width: 100%
+    :align: center
+
+RAIWAY is a two-wheeled-legged robot designed for quick and efficient drive across challenging terrains.
+By utilizing off-road wheels and RL-based control, it can rapidly overcome rough terrain and maintain smooth performance in variable conditions.
+
+********************************
+RAIBO
 ********************************
 
 .. image:: ../_images/robots/Raibo_small.png
@@ -51,8 +75,6 @@ In the series of our projects, Raibo has showcased stunningly agile and robust l
         </iframe></div>
         <br>
 
-----
-
 ********************************
 Mini Cheetah
 ********************************
@@ -87,7 +109,7 @@ Trained using reinforcement learning, the Mini Cheetah is capable of high-speed 
 ----
 
 ********************************
-Raicart
+RAICART
 ********************************
 
 .. .. image:: ../_images/robots/raicart.jpg
