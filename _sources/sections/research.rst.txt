@@ -2,7 +2,7 @@
 Research
 #############################
 
-This page ourlines our lab's core focus and expertise in the field of robotics research, arranged based on major **research topics**.
+This page outlines our lab's core focus and expertise in the field of robotics research, arranged based on major **research topics**.
 
 ********************************
 Learning-based Control
