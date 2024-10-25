@@ -2,13 +2,13 @@
 Members
 #############################
 
-.. image:: ../_images/main/GroupPhoto.jpeg
+.. image:: ../_images/main/GroupPhoto_2024-Fall_Geumsan.jpg
    :width: 700
    :align: center
 
 .. div:: sd-text-center sd-fs-5
 
-    Group photo at KAIST
+    Group photo at the `Geumsan Marathon <http://www.run1080.com/new/mini/index.php?code=1422>`_
 
 ***************************
 Professor

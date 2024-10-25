@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html class="writer-html5" lang="en" data-content_root="../">
 <head>
@@ -6,20 +8,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Research &mdash; Railab  documentation</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=80d5e7a1" />
-      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=19f00094" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=e59714d7" />
       <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
 
   
-  <!--[if lt IE 9]>
-    <script src="../_static/js/html5shiv.min.js"></script>
-  <![endif]-->
-  
-        <script src="../_static/jquery.js?v=5d32c60e"></script>
-        <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-        <script src="../_static/documentation_options.js?v=5929fcd5"></script>
-        <script src="../_static/doctools.js?v=9a2dae69"></script>
-        <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
-        <script src="../_static/design-tabs.js?v=f930bc37"></script>
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../_static/documentation_options.js?v=5929fcd5"></script>
+      <script src="../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../_static/design-tabs.js?v=f930bc37"></script>
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -98,7 +96,8 @@
 <section id="learning-based-control">
 <h2>Learning-based Control<a class="headerlink" href="#learning-based-control" title="Link to this heading"></a></h2>
 <p>Legged robots often face challenges due to their high degrees of freedom and the difficulty of accurately modeling complex environments. These factors discourage the development of robust and stable controllers. However, by leveraging reinforcement learning(RL) techniques, we have successfully developed locomotion controllers that enable the quadrupedal robots to adapt and traverse through challenging terrains such as rough, slippery, and deformable surfaces. This learning-based approach not only improves robustness and stability but also reduces dependency on accruate and computationally intensive models, making our controllers well-suited for practical applications in dynamic and unpredictable environments.</p>
-<a class="reference internal image-reference" href="../_images/VariousTerrains.png"><img alt="../_images/VariousTerrains.png" class="align-center" src="../_images/VariousTerrains.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/VariousTerrains.png"><img alt="../_images/VariousTerrains.png" class="align-center" src="../_images/VariousTerrains.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Learning-based locomotion on various terrains</strong></p><p>Through extensive experimentation, we have demonstrated the effectiveness of our RL-based locomotion controllers. The list of our work is shown below.</p>
 <hr class="docutils" />
@@ -106,40 +105,46 @@
 <li><p>Yunho Kim, Hyunsik Oh et al., <strong>Not Only Rewards But Also Constraints: Applications on Legged Robot Locomotion</strong>. IEEE T-RO 2024 <a class="reference external" href="https://arxiv.org/abs/2308.12517">paper_kim24</a> <a class="reference external" href="https://www.youtube.com/watch?v=KAlm3yskhvM">video_kim24</a></p></li>
 </ul>
 <p>We propose a reinforcement learning framework that maximizes rewards while meeting constraints, applied to train legged robots for challenging terrains.</p>
-<a class="reference internal image-reference" href="../_images/NotOnlyReward.png"><img alt="../_images/NotOnlyReward.png" class="align-center" src="../_images/NotOnlyReward.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/NotOnlyReward.png"><img alt="../_images/NotOnlyReward.png" class="align-center" src="../_images/NotOnlyReward.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Proposed RL Framework</strong></p><hr class="docutils" />
 <ul class="simple">
 <li><p>Joon Hyub Lee, Hyunsik Oh et al., <strong>RobotSketch: An Interactive Showcase of Superfast Design of Legged Robots</strong>. SIGGRAPH 2024 <a class="reference external" href="https://sketch.kaist.ac.kr/pdf/publications/2024_siggraph_robotsketch.pdf">paper_oh24</a> <a class="reference external" href="https://www.youtube.com/watch?v=dvTZs6fbZf0">video_oh24</a></p></li>
 </ul>
 <p>Designing robots with complex, articulated parts is challenging. Our solution streamlines this process through 3D sketching, AI-driven movement generation, and VR-based review, optimizing early-stage development.</p>
-<a class="reference internal image-reference" href="../_images/RobotSketch.png"><img alt="../_images/RobotSketch.png" class="align-center" src="../_images/RobotSketch.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/RobotSketch.png"><img alt="../_images/RobotSketch.png" class="align-center" src="../_images/RobotSketch.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>The RobotSketch Interface</strong></p><hr class="docutils" />
 <ul class="simple">
 <li><p>Seunghun Jeon, Moonkyu Jung et al., <strong>Learning Whole-body Manipulation for Quadrupedal Robot</strong>. IEEE Robotics and Automation Letters 2024 <a class="reference external" href="https://arxiv.org/abs/2308.16820">paper_jeon24</a> <a class="reference external" href="https://www.youtube.com/watch?v=fO_PVr27QxU">video_jeon24</a></p></li>
 </ul>
 <p>We propose a learning-based system for enabling quadrupedal robots to manipulate large, heavy objects using their whole body. Our method does not require explicit object modeling and offers significant computational efficiency compared to optimization-based methods.</p>
-<a class="reference internal image-reference" href="../_images/WholeBody.png"><img alt="../_images/WholeBody.png" class="align-center" src="../_images/WholeBody.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/WholeBody.png"><img alt="../_images/WholeBody.png" class="align-center" src="../_images/WholeBody.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Quadrupedal Whole-Body Manipulation Overview</strong></p><hr class="docutils" />
 <ul class="simple">
 <li><p>Donghoon Youm, Hyunyoung Jung et al., <strong>Imitating and Finetuning Model Predictive Control for Robust and Symmetric Quadrupedal Locomotion</strong>. IEEE Robotics and Automation Letters 2023 <a class="reference external" href="https://ieeexplore.ieee.org/abstract/document/10268037">paper_youm24</a> <a class="reference external" href="https://hyunyoungjung.github.io/projects/ifm/ifm.html">supplement_youm24</a></p></li>
 </ul>
 <p>We introduce a novel Imitating and Finetuning Model Predictive Control (IFM) framework that combines model-based control and learning algorithms to improve legged robot performance. The framework trains a controller using imitation learning and refines it with deep reinforcement learning for handling challenging terrains. Simulations and hardware tests show that IFM significantly enhances footstep coordination, gait symmetry, and energy efficiency on rough and slippery surfaces compared to traditional methods.</p>
-<a class="reference internal image-reference" href="../_images/ImitateFineTune.png"><img alt="../_images/ImitateFineTune.png" class="align-center" src="../_images/ImitateFineTune.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/ImitateFineTune.png"><img alt="../_images/ImitateFineTune.png" class="align-center" src="../_images/ImitateFineTune.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>IFM Framework Overview</strong></p><hr class="docutils" />
 <ul class="simple">
 <li><p>Suyoung Choi et al., <strong>Learning quadrupedal locomotion on deformable terrain</strong>. Sci. Robot. 8, eade2256(2023) <a class="reference external" href="https://www.science.org/doi/full/10.1126/scirobotics.ade2256">paper_choi23</a> <a class="reference external" href="https://www.youtube.com/watch?v=dt1u8zwUMok">video_choi23</a></p></li>
 </ul>
-<a class="reference internal image-reference" href="../_images/DeformableContactModel.png"><img alt="../_images/DeformableContactModel.png" class="align-center" src="../_images/DeformableContactModel.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/DeformableContactModel.png"><img alt="../_images/DeformableContactModel.png" class="align-center" src="../_images/DeformableContactModel.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Contact model of deformable terrains</strong></p><hr class="docutils" />
 <ul class="simple">
 <li><p>Gwanghyeon Ji et al., <strong>Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion</strong>. IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 4630-4637, April 2022 <a class="reference external" href="https://ieeexplore.ieee.org/abstract/document/9714001">paper_ji22</a> <a class="reference external" href="https://www.youtube.com/watch?v=9QV0Nnm80tU">video_ji22</a></p></li>
 </ul>
-<a class="reference internal image-reference" href="../_images/ConcurrentControlDiagram.png"><img alt="../_images/ConcurrentControlDiagram.png" class="align-center" src="../_images/ConcurrentControlDiagram.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/ConcurrentControlDiagram.png"><img alt="../_images/ConcurrentControlDiagram.png" class="align-center" src="../_images/ConcurrentControlDiagram.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Concurrent training architeture</strong></p><hr class="docutils" />
 <ul class="simple">
@@ -154,7 +159,8 @@
 These encompass urban settings as well as natural landscapes like forests and mountains.
 However, navigating autonomously in these environments is challenging as it requires the integration of semantic and geometric reasoning for path planning,
 and the consideration of the robot’s physical constraints and controller characteristics for path tracking.</p>
-<a class="reference internal image-reference" href="../_images/AutonomousNavigationFramework.png"><img alt="../_images/AutonomousNavigationFramework.png" class="align-center" src="../_images/AutonomousNavigationFramework.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/AutonomousNavigationFramework.png"><img alt="../_images/AutonomousNavigationFramework.png" class="align-center" src="../_images/AutonomousNavigationFramework.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Autonomous navigation framework (Top), Testing in the physics simulation (Bottom)</strong></p><p>In our lab, we’re actively combining learning-based approaches with classical methods to build an autonomous navigation framework.
 The framework includes traversibility estimation, efficient path and motion planning, and precise path tracking algorithms.
@@ -165,13 +171,15 @@ The list of our work is shown below.</p>
 <li><p>Jeong Hyun Lee, Jinhyeok Choi, et al., <strong>Learning Vehicle Dynamics from Cropped Image Patches for Robot Navigation in Unpaved Outdoor Terrains</strong>. IEEE Robotics and Automation Letters (RA-L) 2024 <a class="reference external" href="https://arxiv.org/abs/2309.02745">paper_lee24</a> <a class="reference external" href="https://youtu.be/iIGNZ8ignk0?si=39CIstwSsdVhPPZq">video_lee24</a></p></li>
 </ul>
 <p>Building on our work in autonomous navigation, we address the challenges of unpaved outdoor environments with high-dimensional sensor data by developing Crop-LSTM. This novel approach enhances local feature extraction from cropped image patches, improving predictions of the robot’s future position and orientation. We validated Crop-LSTM on our Raicart platform, successfully navigating challenging terrains using RGBD images.</p>
-<a class="reference internal image-reference" href="../_images/VehicleDynamicsCropped.png"><img alt="../_images/VehicleDynamicsCropped.png" class="align-center" src="../_images/VehicleDynamicsCropped.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/VehicleDynamicsCropped.png"><img alt="../_images/VehicleDynamicsCropped.png" class="align-center" src="../_images/VehicleDynamicsCropped.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Dynamics Learning Framework</strong></p><hr class="docutils" />
 <ul class="simple">
 <li><p>Yunho Kim et al., <strong>Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation</strong>. Robotics: Science and Systems 2022. <a class="reference external" href="https://arxiv.org/abs/2204.08647">paper_kim22</a> <a class="reference external" href="https://youtu.be/-UTEL6zHNv4">video_kim22</a></p></li>
 </ul>
-<a class="reference internal image-reference" href="../_images/ForwardDynamicsModel.png"><img alt="../_images/ForwardDynamicsModel.png" class="align-center" src="../_images/ForwardDynamicsModel.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/ForwardDynamicsModel.png"><img alt="../_images/ForwardDynamicsModel.png" class="align-center" src="../_images/ForwardDynamicsModel.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Forward dynamics model training pipeline</strong></p></section>
 <hr class="docutils" />
@@ -180,14 +188,17 @@ The list of our work is shown below.</p>
 <section id="mechanical-design">
 <h3>Mechanical Design<a class="headerlink" href="#mechanical-design" title="Link to this heading"></a></h3>
 <p>Our Lab directly creates all the components to experiment with a controller to which the learning algorithm is applied.</p>
-<a class="reference internal image-reference" href="../_images/raibo_6.png"><img alt="../_images/raibo_6.png" class="align-center" src="../_images/raibo_6.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/raibo_6.png"><img alt="../_images/raibo_6.png" class="align-center" src="../_images/raibo_6.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Raibo</strong></p><p>Raibo, made by Railab, has hardware that can withstand shocks under various conditions and operate robustly regardless of the environment.
 We also design its own driving units, which are key components consisting of motors, motor reducers, encoders, and motor drivers.
 With its own form factor, it plays a major role in achieving high efficiency during operation.</p>
-<a class="reference internal image-reference" href="../_images/raibo_5.png"><img alt="../_images/raibo_5.png" class="align-center" src="../_images/raibo_5.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../_images/raibo_5.png"><img alt="../_images/raibo_5.png" class="align-center" src="../_images/raibo_5.png" style="width: 100%;" />
+</a>
 <p class="centered">
-<strong>Raibo driving units</strong></p><a class="reference internal image-reference" href="../_images/raibo_3.png"><img alt="../_images/raibo_3.png" class="align-center" src="../_images/raibo_3.png" style="width: 100%;" /></a>
+<strong>Raibo driving units</strong></p><a class="reference internal image-reference" href="../_images/raibo_3.png"><img alt="../_images/raibo_3.png" class="align-center" src="../_images/raibo_3.png" style="width: 100%;" />
+</a>
 <p class="centered">
 <strong>Raibo Leg Design</strong></p><p>Through various simulations, we demonstrate that we can operate robustly and efficiently in various situations.
 The list of our work is shown below.</p>
