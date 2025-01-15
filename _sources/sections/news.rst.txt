@@ -12,9 +12,9 @@ Highlights
 
 **RAIBO2 became the first ever quadruped robot to complete a full marathon!**
 
-.. image:: ../_images/news/raibo2MarathonFinish.gif
-    :width: 100%
-    :align: center
+.. .. image:: ../_images/news/raibo2MarathonFinish.gif
+..     :width: 100%
+..     :align: center
 
 
 On **November 17, 2024**, RAIBO2 successfully completed a **full marathon** (42.195 km) during the `Sangju Gotgam Marathon <https://time.spct.kr/m2.php?EVENT_NO=20241117017&TargetYear=2024&currentPage=1&BIB_NO=042004>`_.
