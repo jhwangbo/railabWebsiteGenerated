@@ -183,11 +183,6 @@ Doctoral Students
 
             - BAS, MAS at KAIST
 
-***************************
-Master Students
-***************************
-
-
 
 
 .. grid:: 1 2 3 4
@@ -220,6 +215,10 @@ Master Students
 
             - BAS at KAIST
 
+
+***************************
+Master Students
+***************************
 
 
 .. grid:: 1 2 3 4
