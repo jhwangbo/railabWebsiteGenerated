@@ -251,6 +251,8 @@ Master Students
 
             - BAS at KAIST
 
+.. grid:: 1 2 3 4
+
     .. grid-item::
 
         .. image:: ../_images/members/MinhoLee.jpg
@@ -279,6 +281,22 @@ Master Students
             **Hyungho Choi**
 
             - BAS at KAIST
+            
+.. grid:: 1 2 3 4
+            
+    .. grid-item::
+
+        .. image:: ../_images/members/WoojinKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Woojin Kim**
+
+            - BAS at POSTECH
 
 ***************************
 Alumni
