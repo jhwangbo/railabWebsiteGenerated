@@ -286,6 +286,36 @@ Master Students
             
     .. grid-item::
 
+        .. image:: ../_images/members/DonghyukChoi.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Donghyuk Choi**
+
+            - BAS at KAIST
+            
+    .. grid-item::
+
+        .. image:: ../_images/members/DonggeonKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Donggeon Kim**
+
+            - BAS at KAIST
+            
+.. grid:: 1 2 3 4
+            
+    .. grid-item::
+
         .. image:: ../_images/members/WoojinKim.jpg
           :width: 200
           :align: center
@@ -297,6 +327,22 @@ Master Students
             **Woojin Kim**
 
             - BAS at POSTECH
+            
+    .. grid-item::
+
+        .. image:: ../_images/members/JiseongLee.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Jiseong Lee**
+
+            - BAS at KAIST
+            
+
 
 ***************************
 Alumni
