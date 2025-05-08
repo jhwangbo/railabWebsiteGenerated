@@ -9,6 +9,7 @@ International
 **2025**
 
 #. Youm, Donghoon; Oh, Hyunsik; Choi, Suyoung; Kim, Hyeongjun; Jeon, Seunghun; Hwangbo, Jemin; Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network, 2025 International Conference on Robotics and Automation (ICRA)
+#. Kim, Hyeongjun; Oh, Hyunsik; Park, Jeongsoo; Kim, Yunho; Youm, Donghoon; Jung, Moonkyu; Lee, Minho; Hwangbo, Jemin; 	High-speed control and navigation for quadrupedal robots on complex and discrete terrain, Science Robotics
 
 **2024**
 
