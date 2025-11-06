@@ -10,6 +10,8 @@ International
 
 #. Youm, Donghoon; Oh, Hyunsik; Choi, Suyoung; Kim, Hyeongjun; Jeon, Seunghun; Hwangbo, Jemin; Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network, 2025 International Conference on Robotics and Automation (ICRA)
 #. Kim, Hyeongjun; Oh, Hyunsik; Park, Jeongsoo; Kim, Yunho; Youm, Donghoon; Jung, Moonkyu; Lee, Minho; Hwangbo, Jemin; 	High-speed control and navigation for quadrupedal robots on complex and discrete terrain, Science Robotics
+#. Yang, Insung; Hwangbo, Jemin; Learning rapid turning, aerial reorientation, and balancing using manipulator as a tail, 2025 International Conference on Automation Science and Engineering (CASE)
+#. Lee, Minho; Kim, Hyeonseok; Kim, Jin Tak; Park, Sangshin; Lee, Jeong Hyun; Cho, Jungsan; Hwangbo, Jemin; Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model, IEEE Robotics and Automation Letters
 
 **2024**
 
