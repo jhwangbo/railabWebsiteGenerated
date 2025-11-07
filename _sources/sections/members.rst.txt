@@ -187,7 +187,7 @@ Doctoral Students
 
         .. div:: sd-text-left sd-fs-5
 
-            **Jeonghyun Lee**
+            **Jeong Hyun Lee**
 
             - BAS, MAS at KAIST
 
