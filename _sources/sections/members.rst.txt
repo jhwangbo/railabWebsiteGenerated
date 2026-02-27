@@ -351,6 +351,35 @@ Master Students
 
             - BAS at Sogang University
             
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/EunchaeKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Eunchae Kim**
+
+            - BAS at KAIST
+
+    .. grid-item::
+
+        .. image:: ../_images/members/InsungYang.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Insung Yang**
+
+            - BAS at KAIST
 
 ***************************
 Alumni
