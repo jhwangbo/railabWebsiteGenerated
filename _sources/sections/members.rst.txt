@@ -224,12 +224,6 @@ Doctoral Students
 
             - BAS, MAS at KAIST
 
-
-***************************
-Master Students
-***************************
-
-
 .. grid:: 1 2 3 4
 
     .. grid-item::
@@ -244,7 +238,7 @@ Master Students
 
             **Kyeongmin Nam**
 
-            - BAS at KAIST
+            - BAS, MAS at KAIST
 
     .. grid-item::
 
@@ -258,7 +252,12 @@ Master Students
 
             **Minho Lee**
 
-            - BAS at KAIST
+            - BAS, MAS at KAIST
+
+
+***************************
+Master Students
+***************************
 
 .. grid:: 1 2 3 4
 
