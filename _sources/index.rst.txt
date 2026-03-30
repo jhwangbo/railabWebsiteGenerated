@@ -6,7 +6,7 @@
 Welcome to RaiLab!
 =====================
 
-.. image:: ./_images/main/GroupPhoto_2025-Spring_KAIST.jpg
+.. image:: ./_images/main/GroupPhoto_2026-Spring_KAIST.jpg
    :width: 700
    :align: center
    
