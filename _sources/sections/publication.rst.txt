@@ -6,6 +6,10 @@ Publications
 International
 ********************************
 
+**2026**
+
+#. Jung, Moonkyu; Lee, Jiseong; He, Zhengmao; Youm, Donghoon; Mun, Juhyeok; Kim, HyeongJun; Oh, Hyunsik; Choi, Donghyuk; Hur, Jungwoo; Song, Jie; Hwangbo, Jemin; Learning Dynamic Pick-and-Place for a Legged Manipulator, IEEE Robotics and Automation Letters
+
 **2025**
 
 #. Youm, Donghoon; Oh, Hyunsik; Choi, Suyoung; Kim, Hyeongjun; Jeon, Seunghun; Hwangbo, Jemin; Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network, 2025 International Conference on Robotics and Automation (ICRA)
