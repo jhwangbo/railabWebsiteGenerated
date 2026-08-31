@@ -380,6 +380,36 @@ Master Students
 
             - BAS at KAIST
 
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/DongheeKim.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Donghee Kim**
+
+            - BAS at KAIST
+
+    .. grid-item::
+
+        .. image:: ../_images/members/KyungseoPark.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Kyungseo Park**
+
+            - BAS at Seoul National University
+
 ***************************
 Alumni
 ***************************
