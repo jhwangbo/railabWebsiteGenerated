@@ -9,7 +9,8 @@ International
 **2026**
 
 #. Jung, Moonkyu; Lee, Jiseong; He, Zhengmao; Youm, Donghoon; Mun, Juhyeok; Kim, HyeongJun; Oh, Hyunsik; Choi, Donghyuk; Hur, Jungwoo; Song, Jie; Hwangbo, Jemin; Learning Dynamic Pick-and-Place for a Legged Manipulator, IEEE Robotics and Automation Letters
-#. Kim, Donggeon; Choi, Hyungho Chris; Choi, Donghyuk; Park, Jeongsoo; Lee, Choongin; Park, Chan; Hwangbo, Jemin; RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks, IEEE Robotics and Automation Letters (Accepted)
+#. Kim, Donggeon*; Choi, Hyungho Chris*; Choi, Donghyuk*; Park, Jeongsoo; Lee, Choongin; Park, Chan; Hwangbo, Jemin; RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks, IEEE Robotics and Automation Letters (Accepted)
+#. Lee, Choongin*; Youm, Donghoon*; Park, Jeongsoo*; Lee, Jeonghyun; Choi, Suyoung; Ji, Gwanghyeon; Mun, Juhyeok; Jung, Moonkyu; Choi, Hyungho Chris; Kim, Hyeongjun; Oh, Hyunsik; Nam, Kyungmin; Lee, Minho; Hur, Jungwoo; Choi, Donghyuk; Kim, Donggeon; An, Yeonsu; Hwangbo, Jemin; A Quadruped Robot Designed to Complete a Marathon on a Single Battery Charge, Nature
 
 **2025**
 
