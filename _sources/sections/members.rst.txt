@@ -70,20 +70,6 @@ Doctoral Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/ChoonginLee_cut.jpg
-          :width: 200
-          :align: center
-
-    .. grid-item::
-
-        .. div:: sd-text-left sd-fs-5
-
-            **Choongin Lee**
-
-            - BAS, MAS at Seoul National University
-
-    .. grid-item::
-
         .. image:: ../_images/members/SuyoungChoi.jpg
           :width: 200
           :align: center
@@ -96,10 +82,6 @@ Doctoral Students
 
             - BAS at Chung-Ang University
             - MAS at KAIST
-
-
-
-.. grid:: 1 2 3 4
 
     .. grid-item::
 
@@ -114,6 +96,9 @@ Doctoral Students
             **Hyeongjun Kim**
 
             - BAS, MAS at KAIST
+
+.. grid:: 1 2 3 4
+
 
     .. grid-item::
 
@@ -130,8 +115,6 @@ Doctoral Students
             - BAS at POSTECH
             - MAS at KAIST
 
-.. grid:: 1 2 3 4
-
     .. grid-item::
 
         .. image:: ../_images/members/JuhyeokMun.jpg
@@ -147,6 +130,8 @@ Doctoral Students
             - BAS at Seoul National University
             - MAS at KAIST
 
+.. grid:: 1 2 3 4
+
     .. grid-item::
 
         .. image:: ../_images/members/JeongSooPark_cut.png
@@ -160,8 +145,6 @@ Doctoral Students
             **Jeongsoo Park**
 
             - BAS, MAS at KAIST
-
-.. grid:: 1 2 3 4
 
     .. grid-item::
 
@@ -177,6 +160,8 @@ Doctoral Students
 
             - BAS, MAS at KAIST
 
+.. grid:: 1 2 3 4
+
     .. grid-item::
 
         .. image:: ../_images/members/JeongHyunLee.jpg
@@ -190,10 +175,6 @@ Doctoral Students
             **Jeong Hyun Lee**
 
             - BAS, MAS at KAIST
-
-
-
-.. grid:: 1 2 3 4
 
     .. grid-item::
 
@@ -210,6 +191,8 @@ Doctoral Students
             - BAS at Hanyang University
             - MAS at KAIST
 
+.. grid:: 1 2 3 4
+
     .. grid-item::
 
         .. image:: ../_images/members/MoonkyuJung.jpeg
@@ -224,8 +207,6 @@ Doctoral Students
 
             - BAS, MAS at KAIST
 
-.. grid:: 1 2 3 4
-
     .. grid-item::
 
         .. image:: ../_images/members/KyeongminNam.jpg
@@ -239,6 +220,8 @@ Doctoral Students
             **Kyeongmin Nam**
 
             - BAS, MAS at KAIST
+
+.. grid:: 1 2 3 4
 
     .. grid-item::
 
@@ -477,3 +460,20 @@ Alumni
 
             - BAS at Korea University
             - MAS at KAIST
+
+.. grid:: 1 2 3 4
+
+    .. grid-item::
+
+        .. image:: ../_images/members/ChoonginLee_cut.jpg
+          :width: 200
+          :align: center
+
+    .. grid-item::
+
+        .. div:: sd-text-left sd-fs-5
+
+            **Choongin Lee**
+
+            - BAS, MAS at Seoul National University
+            - PhD at KAIST
