@@ -209,7 +209,7 @@ Doctoral Students
 
     .. grid-item::
 
-        .. image:: ../_images/members/KyeongminNam.jpg
+        .. image:: ../_images/members/KyungminNam.jpg
           :width: 200
           :align: center
 
@@ -217,7 +217,7 @@ Doctoral Students
 
         .. div:: sd-text-left sd-fs-5
 
-            **Kyeongmin Nam**
+            **Kyungmin Nam**
 
             - BAS, MAS at KAIST
 

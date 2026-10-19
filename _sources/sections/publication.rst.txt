@@ -13,6 +13,7 @@ International
 #. Lee, Choongin*; Youm, Donghoon*; Park, Jeongsoo*; Lee, Jeonghyun; Choi, Suyoung; Ji, Gwanghyeon; Mun, Juhyeok; Jung, Moonkyu; Choi, Hyungho Chris; Kim, Hyeongjun; Oh, Hyunsik; Nam, Kyungmin; Lee, Minho; Hur, Jungwoo; Choi, Donghyuk; Kim, Donggeon; An, Yeonsu; Hwangbo, Jemin; A Quadruped Robot Designed to Complete a Marathon on a Single Battery Charge, Nature
 #. He, Zhengmao*; Jung, Moonkyu*; Kim, HyeongJun; Lee, Jiseong; Zhang, Hui; Hwangbo, Jemin; Song, Jie; PAKE: Learning Whole-Body Loco-Manipulation with Partial Kinematic Embeddings, IEEE Robotics and Automation Letters (Accepted)
 #. Oh, Hyunsik; Jeon, Seunghun; Youm, Donghoon; Hur, Jungwoo; Kim, HyeongJun; Lee, Jeong Hyun; Jung, Moonkyu; Hwangbo, Jemin; PolyMorph: Learning Locomotion Policy for Cross-Embodiment Adaptation, IEEE Robotics and Automation Letters (Accepted)
+#. Nam, Kyungmin; Lee, Jiseong; Choi, Donghyuk; Park, Jeongsoo; Kim, Woojin; Hwangbo, Jemin; RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion, IEEE Robotics and Automation Letters (Accepted)
 
 **2025**
 
